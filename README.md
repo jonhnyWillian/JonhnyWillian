@@ -1,16 +1,30 @@
-## Hi there 👋
+Olá, eu sou Jonhny Willian
 
-<!--
-**jonhnyWillian/JonhnyWillian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Desenvolvedor Full Stack**  
+🚀 Focado em **.NET, Vue.js e SQL Server**  
+📍 Brasil  
 
-Here are some ideas to get you started:
+Aqui compartilho meus projetos, estudos e evolução na área de tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tecnologias e Ferramentas
+
+- **Backend:** C#, .NET / .NET Core  
+- **Frontend:** Vue.js, JavaScript, HTML, CSS  
+- **Banco de Dados:** SQL Server  
+- **Outros:** Git, GitHub, APIs REST
+
+## 📂 Projetos em Destaque
+
+🔹 **API REST em .NET**  
+API com CRUD, boas práticas e integração com banco de dados.
+
+🔹 **Sistema de Vendas (Vue.js + .NET)**  
+Aplicação full stack com cadastro de clientes e produtos.
+
+👉 Veja todos os projetos nos repositórios abaixo ⬇️
+
+
+## 📫 Contato
+
+- 💼 LinkedIn: https://www.linkedin.com/in/jonhny-willian/
+- 📧 Email: JonhnyWillian.jw@gmail.com
