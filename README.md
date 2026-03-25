@@ -8,8 +8,8 @@ Aqui compartilho meus projetos, estudos e evolução na área de tecnologia.
 
 🛠️ Tecnologias e Ferramentas
 
-- **Backend:** C#, .NET / .NET Core  
-- **Frontend:** Vue.js, JavaScript, HTML, CSS  
+- **Backend:** C#, .NET, node.js 
+- **Frontend:** Vue.js, JavaScript, HTML, CSS, next.js
 - **Banco de Dados:** SQL Server  
 - **Outros:** Git, GitHub, APIs REST
 
