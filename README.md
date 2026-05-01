@@ -9,8 +9,11 @@
 ## 🧠 Sobre mim
 
 Desenvolvedor Fullstack com experiência em .NET e foco atual em JavaScript moderno.
+
 Atuo na construção de aplicações completas (end-to-end), incluindo frontend, backend, APIs REST, banco de dados e deploy em cloud.
+
 Tenho experiência prévia com sistemas corporativos em .NET, incluindo otimização de queries, manutenção de sistemas legados e aplicação de boas práticas.
+
 Atualmente desenvolvendo aplicações com arquitetura fullstack moderna, incluindo integração entre web e mobile e deploy em produção.
 ---
 
